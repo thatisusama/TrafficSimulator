@@ -1,6 +1,5 @@
 package classes;
 
-// this is context for yellow state
 public class TrafficLight {
 
     private ITrafficLight State;

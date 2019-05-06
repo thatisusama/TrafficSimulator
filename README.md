@@ -16,3 +16,4 @@ Developed the coding test in JAVA. Because Java has strong OOP and design patter
 - Context Class
 - Concrete Classes for the states
 - Config Class where all constants are defined which are used in the app
+- Test class
